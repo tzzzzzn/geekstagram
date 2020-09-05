@@ -1,0 +1,71 @@
+#editor{
+    height: 500px;
+    width: 620px;
+    font-size: 18px;
+    font-family: monospace;
+    background-color: black;
+    color: white;
+}
+
+#input_space {
+    width: 255px;
+    float: left;
+    margin-inline-end: 35px;
+}
+
+#input_area{
+    width: 250px;
+    height: 250px;
+    font-size: 18px;
+    font-family: monospace;
+    background-color: black;
+    color: white;
+}
+
+
+
+#run_space{
+    display: table-caption;
+}
+
+#run_area{
+    width: 333px;
+    height: 250px;
+    font-size: 18px;
+    font-family: monospace;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+#left_space{
+    float: left;
+    margin-inline-end: 24px;
+}
+
+#question_area ,#approach_area{
+    width: 545px;
+    height: 211px;
+    font-size: 16px;
+    font-family: cursive;
+    background-color: black;
+    color: white;
+}
+
+#tags_area{
+    width: 545px;
+    height: 28px;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+}
+
+button{
+    width: 103px;
+    height: 44px;
+}
+
